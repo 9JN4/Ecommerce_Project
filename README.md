@@ -24,7 +24,7 @@
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/Ecommerce_Project.git
+    git clone https://github.com/9JN4/Ecommerce_Project.git
     cd Ecommerce_Project
     ```
 
